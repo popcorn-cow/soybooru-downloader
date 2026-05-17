@@ -1,3 +1,35 @@
+#This file is part of "SOYBOORU-DOWNLOADER"
+
+
+#Copyright (C) 2026 POPCORN-COW
+
+#This program is free software: you can redistribute it and/or modify
+
+#it under the terms of the GNU Affero General Public License as published
+
+#by the Free Software Foundation, either version 3 of the License, or
+
+#(at your option) any later version, with the HWABAG License Modifier applied.
+
+#The HWABAG License Modifier requires the inclusion of an additional image (HWABAG.png)
+
+#in the top level this software's directory tree. This content is clearly
+
+#separable from functional elements and does not restrict user freedoms.
+
+#This program is distributed in the hope that it will be useful,
+
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+
+#GNU Affero General Public License for more details.
+
+#You should have received a copy of the GNU Affero General Public License
+
+#along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+#Modifier text is available in LICENSE file provided with this software 
 import os
 import json
 import threading
